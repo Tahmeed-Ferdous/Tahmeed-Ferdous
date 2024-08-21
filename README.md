@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hi 👋, I'm Tahmeed Ferdous</h1>
 <h3 align="center">Software and Web Developer</h3>
-<img align="right" alt="Coding" width="400" src="[https://giphy.com/embed/l0HlRWOxvtUYYAC7m](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGdlbjFxazAweDF5ZGx1d3E1MTZjZzZxYXRiYzR4NXJoZHd5eXNlOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlRWOxvtUYYAC7m/giphy.webp)">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahmeed-ferdous&label=Profile%20views&color=0e75b6&style=flat" alt="tahmeed-ferdous" /> </p>
 
