@@ -12,13 +12,9 @@
 
 - 👯 I’m looking to collaborate on **Software develpoment**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Tahmeed-Ferdous](https://github.com/Tahmeed-Ferdous)
-
 - 💬 Ask me about **Software and Web development by python**
 
 - 📫 How to reach me **tahmeedferdous281201@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/Tahmeed-Ferdous](https://github.com/Tahmeed-Ferdous)
 
 - ⚡ Fun fact **You can automate anything and everything with Python and my guidance:)**
 
