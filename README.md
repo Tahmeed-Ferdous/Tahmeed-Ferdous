@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Software and Web development by python**
 
-- 📫 How to reach me **tahmeedferdous281201@gmail.com**
+- 📫 Visit my website **tahmeedferdous@netlify.app**
 
 - ⚡ Fun fact **You can automate anything and everything with Python and my guidance:)**
 
